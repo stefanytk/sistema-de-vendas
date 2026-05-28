@@ -70,3 +70,23 @@ Stefany Silva
 ## 📅 Desenvolvimento
 
 Projeto desenvolvido em julho de 2025.
+
+---
+
+## 📷 Imagens do Sistema
+<img width="401" height="381" alt="Captura de tela de 2026-05-28 15-56-54" src="https://github.com/user-attachments/assets/f00e6f0f-f022-40a6-ac44-ac58e6921359" />
+
+<img width="1594" height="892" alt="Captura de tela de 2026-05-28 15-57-40" src="https://github.com/user-attachments/assets/308eca79-1357-40d2-92fc-cfc135fceccf" />
+
+<img width="1594" height="892" alt="Captura de tela de 2026-05-28 15-58-19" src="https://github.com/user-attachments/assets/29fe1dcc-c166-4fca-8f85-c6705c49f180" />
+
+<img width="1594" height="892" alt="Captura de tela de 2026-05-28 15-58-59" src="https://github.com/user-attachments/assets/e067df7f-5f90-4d40-97f1-5c1e2ec15bf5" />
+
+<img width="631" height="461" alt="Captura de tela de 2026-05-28 15-59-16" src="https://github.com/user-attachments/assets/2780ce52-ee9c-48df-a993-5906d5f1fa16" />
+
+<img width="1590" height="891" alt="Captura de tela de 2026-05-28 15-59-52" src="https://github.com/user-attachments/assets/2abba21f-847d-4f0c-8dc8-b3e16bfba07f" />
+
+<img width="799" height="546" alt="Captura de tela de 2026-05-28 16-00-45" src="https://github.com/user-attachments/assets/a2f8030d-a4d3-450e-843f-004e15aacd91" />
+
+
+
