@@ -1,0 +1,54 @@
+sku,nome,categoria,quantidade,unidade,preco,valor_compra,fornecedor,data_entrada,validade,observacoes
+1,Arroz Integral,Alimentacao,78,kg,7.4,4.5,CerealMix,2025-06-20,2026-06-20,Pacote 1kg
+2,Feijão Carioca,Alimentacao,70,kg,6.8,4.0,GrãoBom,2025-07-01,2026-07-01,Tipo 1
+3,Macarrão Penne,Alimentacao,99,unidades,3.5,2.1,MassasSul,2025-06-30,2026-06-30,Pacote 500g
+4,Óleo de Soja,Alimentacao,54,litros,5.7,3.6,Oleobras,2025-06-25,2026-06-25,Garrafa 900ml
+5,Açúcar Cristal,Alimentacao,90,kg,4.3,2.8,Doçura,2025-06-28,2026-06-28,Saco 1kg
+6,Café Torrado,Alimentacao,50,kg,18.5,12.0,Café Brasil,2025-06-20,2026-06-20,Pacote 500g
+7,Biscoito Recheado,Alimentacao,118,unidades,2.0,1.1,Delícias,2025-07-01,2026-01-01,Sabor chocolate
+8,Achocolatado,Bebidas,88,litros,4.2,2.7,Nutri+,2025-06-29,2026-06-29,Pronto para beber
+9,Refrigerante Cola,Bebidas,114,litros,5.9,3.8,RefriTop,2025-07-02,2026-07-02,Garrafa 2L
+10,Água Mineral,Bebidas,142,litros,1.5,1.0,Água Clara,2025-06-30,2026-12-30,Sem gás
+11,Suco de Laranja,Bebidas,186,litros,3.7,2.2,NaturFrut,2025-07-01,2026-01-01,100% natural
+12,Sabonete em Barra,Higiene,96,unidades,1.9,1.0,Limpeza Total,2025-07-01,2027-07-01,Hipoalergênico
+13,Shampoo,Higiene,80,unidades,8.9,5.9,Beleza Natural,2025-07-10,2027-07-10,Para cabelos secos
+14,Condicionador,Higiene,0,unidades,9.4,6.1,Beleza Natural,2025-07-10,2027-07-10,Linha NutriHair
+15,Desodorante Roll-on,Higiene,119,unidades,6.5,4.0,Frescor+,2025-06-28,2027-06-28,Sem álcool
+16,Creme Dental 90g,Higiene,148,unidades,3.99,2.5,DentalMax,2025-06-30,2027-06-30,Com flúor
+17,Escova Dental,Higiene,127,unidades,2.9,1.8,Smile+,2025-06-30,2027-06-30,Cerdas médias
+18,Detergente Neutro,Limpeza,87,unidades,2.1,1.3,Limpol,2025-07-02,2027-01-01,Frasco 500ml
+19,Álcool 70%,Limpeza,60,litros,4.6,4.5,Higienix,2025-06-30,2026-06-30,Uso hospitalar
+20,Desinfetante Floral,Limpeza,68,litros,4.6,3.0,Lavanda+,2025-07-01,2027-07-01,Cheiro prolongado
+21,Papel Higiênico 4x30,Higiene,58,unidades,12.9,8.0,Suavidade,2025-06-25,2026-06-25,Fardo com 4 rolos
+22,Caderno 96 folhas,Papelaria,97,unidades,7.8,4.5,Escrilex,2025-07-01,2030-01-01,Capa dura
+23,Caneta Azul,Papelaria,200,unidades,1.3,0.6,Bic,2025-06-28,2028-06-28,Escrita suave
+24,Lápis Preto,Papelaria,177,unidades,0.8,0.4,EscolaTop,2025-06-20,2028-06-20,Com borracha
+25,Marcador de Texto,Papelaria,89,unidades,2.5,1.6,ColorNote,2025-06-25,2027-06-25,Cores variadas
+26,Borracha Escolar,Papelaria,147,unidades,0.75,0.3,Tris,2025-06-20,2030-06-20,Branca
+27,Regua 30cm,Papelaria,59,unidades,1.6,0.9,Plastiflex,2025-06-29,2030-06-29,Transparente
+28,Paracetamol 500mg,Medicamentos,90,cartelas,4.5,2.5,FarmaLife,2025-06-25,2027-12-31,12 comprimidos
+29,Ibuprofeno 400mg,Medicamentos,71,cartelas,6.2,3.8,FarmaLife,2025-06-28,2027-12-31,10 comprimidos
+30,Termômetro Digital,Saude,31,unidades,19.9,13.0,MedCheck,2025-07-01,2030-07-01,Uso oral/axilar
+31,Pilha AA,Eletronicos,200,unidades,2.8,1.7,PowerMax,2025-07-01,2030-07-01,Alcalina
+32,Carregador USB-C,Eletronicos,39,unidades,18.0,11.0,Eletrix,2025-06-26,2030-06-26,1 metro
+33,Fone de Ouvido Bluetooth,Eletronicos,35,unidades,59.9,38.0,SoundTech,2025-06-30,2030-06-30,Com microfone
+34,Mouse Sem Fio,Eletronicos,30,unidades,39.9,26.0,ClickPro,2025-06-25,2030-06-25,2.4GHz
+35,Camiseta Algodão,Roupas,80,unidades,22.9,14.0,Modabella,2025-06-20,2030-12-31,Tamanho M
+36,Calça Jeans Feminina,Roupas,45,unidades,89.9,60.0,Denim+,2025-06-29,2030-12-31,Tamanho 
+37,Toalha de Banho,Roupas,65,unidades,34.9,22.0,Tecelagem Real,2025-07-01,2030-07-01,100% algodão
+38,Meias Esportivas,Roupas,100,pares,9.9,5.9,FitWear,2025-07-01,2030-07-01,Branca
+39,Conjunto de Copos,Utensilios,40,conjuntos,24.9,15.0,UtilLar,2025-06-25,2030-06-25,6 unidades
+40,Panela Antiaderente,Utensilios,30,unidades,49.9,30.0,ChefMais,2025-06-26,2030-06-26,20cm
+41,Faqueiro Inox 24pçs,Utensilios,24,conjuntos,59.9,38.0,BelaMesa,2025-06-28,2030-06-28,Com estojo
+42,Escorredor de Pratos,Utensilios,15,unidades,39.9,25.0,PratikHome,2025-07-01,2030-07-01,Aço cromado
+43,Mesa de Escritório,Moveis,8,unidades,399.0,270.0,Mobilar,2025-06-29,2030-12-31,120x60cm
+44,Cadeira Giratória,Moveis,12,unidades,299.0,200.0,Mobilar,2025-06-30,2030-12-31,Com rodinhas
+45,Estante de Livros,Moveis,9,unidades,249.9,160.0,Decor+,2025-06-25,2030-12-31,4 prateleiras
+46,Cômoda 4 Gavetas,Moveis,6,unidades,479.9,320.0,Decor+,2025-06-20,2030-12-31,Branca
+47,Colchão Solteiro,Moveis,5,unidades,699.0,470.0,SonoBom,2025-07-01,2030-12-31,Densidade D33
+48,Travesseiro Antialérgico,Moveis,23,unidades,39.9,25.0,SonoBom,2025-06-25,2030-12-31,Lavável
+49,Tapete Sala 2x1.5m,Decoracao,10,unidades,129.9,85.0,Ambiente+,2025-07-01,2030-12-31,Antiderrapante
+50,Luminária de Mesa,Decoracao,18,unidades,49.9,30.0,Ilumina+,2025-06-28,2030-12-31,"LED, bivolt"
+51,Miojo,Alimentacao,48,unidades,1.5,1.0,Mônica,2025-07-04,2050-07-04,Pronto em 3 minutos
+52,Computador,Eletronicos,50,unidades,3000.0,2000.0,Dell,2025-07-04,2100-07-04,Preto
+53,Celular,Eletronicos,18,unidades,1000.0,800.0,Samsung,2026-05-28,2028-05-17,Preto

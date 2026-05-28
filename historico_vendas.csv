@@ -1,0 +1,16 @@
+venda_id,sku,nome,quantidade_vendida,preco_unitario,total,data_venda
+1,9,Refrigerante Cola,2,5.9,11.8,2025-07-07
+1,24,Lápis Preto,3,0.8,2.4000000000000004,2025-07-07
+2,9,Refrigerante Cola,3,5.9,17.700000000000003,2025-07-07
+2,22,Caderno 96 folhas,2,7.8,15.6,2025-07-07
+2,29,Ibuprofeno 400mg,1,6.2,6.2,2025-07-07
+1,11,Suco de Laranja,2,3.7,7.4,2025-07-08
+1,12,Sabonete em Barra,3,1.9,5.699999999999999,2025-07-08
+2,17,Escova Dental,3,2.9,8.7,2025-07-08
+3,8,Achocolatado,2,4.2,8.4,2025-07-07
+3,26,Borracha Escolar,3,0.75,2.25,2025-07-08
+1,4,Óleo de Soja,5,5.7,28.5,2025-07-09
+1,13,Shampoo,2,8.9,17.8,2025-07-15
+1,20,Desinfetante Floral,2,4.6,9.2,2025-07-15
+1,19,Álcool 70%,4,4.6,18.4,2025-07-15
+1,53,Celular,2,1000.0,2000.0,2026-05-28
